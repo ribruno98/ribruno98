@@ -34,4 +34,4 @@ Aqui podes explorar os projetos práticos que desenvolvi para demonstrar a minha
 
 ---
 
-**Como falar comigo:** Podes contactar-me através do meu [LinkedIn]([[LINK_DO_TEU_LINKEDIN_AQUI]](https://www.linkedin.com/in/bruno-ribeiro-07461738b/)) ou abrir uma Issue aqui no meu GitHub!
+**Como falar comigo:** Podes contactar-me através do meu [LinkedIn](https://www.linkedin.com/in/bruno-ribeiro-07461738b/) ou abrir uma Issue aqui no meu GitHub!
