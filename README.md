@@ -24,6 +24,11 @@ Aqui podes explorar os projetos práticos que desenvolvi para demonstrar a minha
   * *Descrição:* Relatório focado na experiência do utilizador e cruzamento de indicadores essenciais de performance.
 * **[Sales-Profit-Dashboard](https://github.com/ribruno98/Sales-Profit-Dashboard)**
   * *Descrição:* Desenvolvimento de um painel interativo de nível intermédio para análise de métricas de negócio. Domínio de visuais claros e filtros dinâmicos para tomada de decisão.
+ 
+  * ###  Dashboards Avançados & Business Intelligence
+
+* **[HR-People-Analytics-Dashboard](https://github.com/ribruno98/HR-People-Analytics-Dashboard)**
+    * *Descrição:* Painel executivo de Recursos Humanos estruturado com modelação de dados em arquitetura Estrela (Star Schema). Focado no controlo de custos de pessoal (Massa Salarial) e na análise detalhada dos fatores críticos de rotatividade através da Taxa de Churn.
 
 ---
 
