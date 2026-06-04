@@ -1,4 +1,4 @@
-## # 👋 Olá, eu sou o Bruno!
+## 👋 Olá, eu sou o Bruno!
 
 Apaixonado por tecnologia, transformar dados brutos em decisões de negócio e resolver problemas complexos através de análises estruturadas. Atualmente, estou focado em desenvolver as minhas competências para conquistar o meu primeiro **Estágio em Análise de Dados / Business Intelligence**.
 
