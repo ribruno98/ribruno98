@@ -27,7 +27,7 @@ Aqui podes explorar os projetos práticos que desenvolvi para demonstrar a minha
  
 ###  Dashboards Avançados & Business Intelligence
 
-* **[HR-People-Analytics-Dashboard](https://github.com/ribruno98/HR-People-Analytics-Dashboard)**
+* **[HR-People-Analytics-Dashboard](https://github.com/ribruno98/RR-People-Analytics-Dashboard)**
     * *Descrição:* Painel executivo de Recursos Humanos estruturado com modelação de dados em arquitetura Estrela (Star Schema). Focado no controlo de custos de pessoal (Massa Salarial) e na análise detalhada dos fatores críticos de rotatividade através da Taxa de Churn.
 
 ---
