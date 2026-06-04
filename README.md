@@ -20,10 +20,10 @@ Aqui podes explorar os projetos práticos que desenvolvi para demonstrar a minha
   * *Descrição:* Tratamento completo de uma base de dados de vendas desorganizada com mais de 1000 linhas. Substituição de valores nulos, tipagem correta de dados e garantia de 100% de integridade das dimensões utilizando o Power Query.
 
 ### Dashboards e Relatórios Intermédios
-* **[NOME_DO_TEU_REPOSITÓRIO_DO_DASHBOARD_1](LINK_DO_REPOSITORIO_1)**
-  * *Descrição:* Desenvolvimento de um painel interativo de nível intermédio para análise de métricas de negócio. Domínio de visuais claros e filtros dinâmicos para tomada de decisão.
-* **[NOME_DO_TEU_REPOSITÓRIO_DO_DASHBOARD_2](LINK_DO_REPOSITORIO_2)**
+* **[Athletes-Performance-Dashboard](https://github.com/ribruno98/Athletes-Performance-Dashboard)**
   * *Descrição:* Relatório focado na experiência do utilizador e cruzamento de indicadores essenciais de performance.
+* **[Sales-Profit-Dashboard](https://github.com/ribruno98/Sales-Profit-Dashboard)**
+  * *Descrição:* Desenvolvimento de um painel interativo de nível intermédio para análise de métricas de negócio. Domínio de visuais claros e filtros dinâmicos para tomada de decisão.
 
 ---
 
