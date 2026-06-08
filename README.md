@@ -38,7 +38,8 @@ Aqui podes explorar os projetos práticos que desenvolvi para demonstrar a minha
 ---
 
 ## Objetivos Atuais
-* 📖 Aprender **Linguagem SQL** para extração avançada de bases de dados.
+
+* 📊 **Aprofundar SQL:** Praticar comandos mais avançados (como Subqueries ou Views).
 * 📐 Aprofundar conceitos de **Modelação de Dados (Star Schema)** e fórmulas DAX complexas.
 * 💼 Encontrar uma oportunidade de **Estágio de Verão ou Extracurricular** para aplicar o meu conhecimento no mundo real.
 
