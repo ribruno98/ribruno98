@@ -25,7 +25,7 @@ Aqui podes explorar os projetos práticos que desenvolvi para demonstrar a minha
 * **[RH-People-Analytics-Dashboard](https://github.com/ribruno98/RR-People-Analytics-Dashboard)**
     * *Descrição:* Painel executivo de Recursos Humanos estruturado com modelação de dados em arquitetura Estrela (Star Schema). Focado no controlo de custos de pessoal (Massa Salarial) e na análise detalhada dos fatores críticos de rotatividade através da Taxa de Churn.
 
-### Análise de Dados com SQL
+### SQL
 
 * **[Projeto-SQL-Analise-Ecommerce](https://github.com/ribruno98/Projeto-SQL-Analise-Ecommerce)**
   * *Descrição:* Extração e filtragem de métricas de negócio a partir de uma base de dados relacional de e-commerce utilizando SQLite. Aplicação prática de filtros complexos (`WHERE`), agregações (`SUM`) e cruzamento de tabelas (`INNER JOIN`) para responder a dores reais da administração.
