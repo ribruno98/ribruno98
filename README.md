@@ -1,6 +1,6 @@
 ## 👋 Olá, eu sou o Bruno!
 
-Apaixonado por dados e tecnologia, desenvolvo soluções de análise e Business Intelligence através de Power BI, SQL e modelação de dados. Procuro uma oportunidade de estágio para aplicar conhecimentos de ETL, visualização e análise de negócio em contextos reais.**.
+Apaixonado por dados e tecnologia, desenvolvo soluções de análise e Business Intelligence através de Power BI, SQL e modelação de dados. Procuro uma oportunidade de estágio para aplicar conhecimentos de ETL, visualização e análise de negócio em contextos reais.
 
 ---
 
