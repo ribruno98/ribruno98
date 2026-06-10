@@ -15,18 +15,13 @@ Apaixonado por tecnologia, transformar dados brutos em decisões de negócio e r
 
 Aqui podes explorar os projetos práticos que desenvolvi para demonstrar a minha capacidade técnica:
 
-### Engenharia de Dados & ETL
+### Power BI
 * **[Data-Cleaning-ETL-Project](https://github.com/ribruno98/Data-Cleaning-ETL-Project)**
   * *Descrição:* Tratamento completo de uma base de dados de vendas desorganizada com mais de 1000 linhas. Substituição de valores nulos, tipagem correta de dados e garantia de 100% de integridade das dimensões utilizando o Power Query.
-
-### Dashboards e Relatórios Intermédios
 * **[Athletes-Performance-Dashboard](https://github.com/ribruno98/Athletes-Performance-Dashboard)**
   * *Descrição:* Relatório focado na experiência do utilizador e cruzamento de indicadores essenciais de performance.
 * **[Sales-Profit-Dashboard](https://github.com/ribruno98/Sales-Profit-Dashboard)**
   * *Descrição:* Desenvolvimento de um painel interativo de nível intermédio para análise de métricas de negócio. Domínio de visuais claros e filtros dinâmicos para tomada de decisão.
- 
-###  Dashboards Avançados & Business Intelligence
-
 * **[RH-People-Analytics-Dashboard](https://github.com/ribruno98/RR-People-Analytics-Dashboard)**
     * *Descrição:* Painel executivo de Recursos Humanos estruturado com modelação de dados em arquitetura Estrela (Star Schema). Focado no controlo de custos de pessoal (Massa Salarial) e na análise detalhada dos fatores críticos de rotatividade através da Taxa de Churn.
 
