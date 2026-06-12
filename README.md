@@ -6,6 +6,7 @@ Apaixonado por dados e tecnologia, desenvolvo soluções de análise e Business 
 
 ## Tecnologias e Ferramentas
 * **Análise e Visualização de Dados:** Microsoft Power Query, DAX (Nível Intermédio), Power BI Desktop
+* **Bases de Dados:** SQL
 * **Tratamento de Dados (ETL):** Limpeza, Higienização e Modelação de Dados
 * **Sistemas Operativos & Produtividade:** Windows, Excel Avançado
 
@@ -30,13 +31,15 @@ Aqui podes explorar os projetos práticos que desenvolvi para demonstrar a minha
 * **[Projeto-SQL-Analise-Ecommerce](https://github.com/ribruno98/Projeto-SQL-Analise-Ecommerce)**
   * *Descrição:* Extração e filtragem de métricas de negócio a partir de uma base de dados relacional de e-commerce utilizando SQLite. Aplicação prática de filtros complexos (`WHERE`), agregações (`SUM`) e cruzamento de tabelas (`INNER JOIN`) para responder a dores reais da administração.
 
+* **[SQL-Ecommerce-Analysis](https://github.com/ribruno98/Projeto-SQL-Analise-Ecommerce)
+  * *Descrição:* Projeto completo de análise de dados de e-commerce utilizando SQL e SQLite. Aplicação prática de (`INNER JOIN`), (`LEFT JOIN`), (`GROUP BY`), (`HAVING`), (`Subqueries`) e análise de métricas de negócio para identificar clientes, produtos e categorias mais relevantes para a empresa.
 ---
 
 ## Objetivos Atuais
 
-* 📊 **Aprofundar SQL:** Praticar comandos mais avançados (como Subqueries ou Views).
-* 📐 Aprofundar conceitos de **Modelação de Dados (Star Schema)** e fórmulas DAX complexas.
-* 💼 Encontrar uma oportunidade de **Estágio de Verão ou Extracurricular** para aplicar o meu conhecimento no mundo real.
+* 📊 **Aprofundar SQL**:(CTEs, Views e Window Functions)
+* 📐 **Evoluir em Modelação de Dados e DAX**
+* 💼 Conquistar uma oportunidade de **Estágio em Dados / Business Intelligence**
 
 ---
 
