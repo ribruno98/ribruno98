@@ -28,9 +28,6 @@ Aqui podes explorar os projetos práticos que desenvolvi para demonstrar a minha
 
 ### SQL
 
-* **[Projeto-SQL-Analise-Ecommerce](https://github.com/ribruno98/Projeto-SQL-Analise-Ecommerce)**
-  * *Descrição:* Extração e filtragem de métricas de negócio a partir de uma base de dados relacional de e-commerce utilizando SQLite. Aplicação prática de filtros complexos (`WHERE`), agregações (`SUM`) e cruzamento de tabelas (`INNER JOIN`) para responder a dores reais da administração.
-
 * **[SQL-Ecommerce-Analysis](https://github.com/ribruno98/Projeto-SQL-Analise-Ecommerce)
   * *Descrição:* Projeto completo de análise de dados de e-commerce utilizando SQL e SQLite. Aplicação prática de (`INNER JOIN`), (`LEFT JOIN`), (`GROUP BY`), (`HAVING`), (`Subqueries`) e análise de métricas de negócio para identificar clientes, produtos e categorias mais relevantes para a empresa.
 ---
